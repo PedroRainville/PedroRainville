@@ -1,9 +1,9 @@
-## Ola 😊, esse e o meu perfil do github!🎯
+## Olá 😊, este é o meu perfil do GitHub! 🎯
 
 
-### 👨🏻‍💻Eu sou o Pedro Rainville, formado em ADS na Unimar🏆 e faco pos-graduacao FullStack💪🏼
+### 👨🏻‍💻 Eu sou o Pedro Rainville, formado em ADS na Unimar 🏆 e faço pós-graduação em Full Stack 💪🏼
 
-### 🧠No momento estou realizando alguns projetos!
+### 🧠 No momento, estou realizando alguns projetos!
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pedrorainville11@gmail.com) 
