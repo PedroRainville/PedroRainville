@@ -1,7 +1,7 @@
 ## Olá 😊, este é o meu perfil do GitHub! 🎯
 
 
-### 👨🏻‍💻 Eu sou o Pedro Rainville, formado em ADS na Unimar 🏆 e faço pós-graduação em Full Stack 💪🏼
+### 👨🏻‍💻 Eu sou o Pedro Rainville, formado em ADS na Unimar 🏆 e faço pós-graduação em Ciencia de Dados 💪
 
 ### 🧠 No momento, estou realizando alguns projetos!
 
